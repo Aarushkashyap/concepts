@@ -11,7 +11,7 @@ This project combines the previous drum kit functionality with a stylish visual 
 
 ### Usage:
 
-1. Open the `index.html` file in your web browser.
+1. Open the `index.html` file in your web browser once you have cloned the files.
 2. Press the designated keyboard keys to play the corresponding drum sounds.
 
 ### Technical Details:
